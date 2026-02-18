@@ -1,3 +1,4 @@
+
 ## Step 0: Setup your GitHub Codespace
 
 ### :hourglass: Activity: Start your GitHub Codespace
